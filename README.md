@@ -8,6 +8,7 @@ None.
 - one
 - two 
 - three
+- four
 
 ```bash
 for i in *.dat; do
